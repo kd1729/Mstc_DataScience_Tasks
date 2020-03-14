@@ -1,3 +1,3 @@
-# Mstc_DataScience_Tasks
+# Mstc_DataScience_Task
 
-Just learning Machine Language and doing exercises topic wise
+Truly and Deeply and Madly in love with Data Science !!
